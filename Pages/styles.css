@@ -259,6 +259,18 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+#name, #email,#subject, #message {
+    background-color:rgb(224, 222, 221);
+}
+.input-container {
+    width: 85%;
+    margin-left: 0;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
 footer h4 {
     color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
